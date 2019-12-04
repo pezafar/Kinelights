@@ -1,0 +1,6 @@
+0-Steady
+1-Blink
+2-Down and up
+3-Up and Down
+
+

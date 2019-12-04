@@ -1,0 +1,7 @@
+0-white
+1-red
+2-green
+3-purple
+4-yellow
+5-cyan
+6-blue

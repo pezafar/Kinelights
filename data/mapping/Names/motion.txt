@@ -1,0 +1,7 @@
+0-static
+1-Horizontal sweeping
+2-Vertical sweeping
+3-Diagonal sweeping
+4-Square
+5-Vertical Wave
+6-Horizontal Wave
